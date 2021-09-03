@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TRIVIAAPP</string>
+    <string name="title">Trivia App</string>
+    <string name="true_title">True</string>
+    <string name="false_title">False</string>
+    <string name="counter_question">Score: 0 / 0</string>
+    <string name="totalNumberofQuestions">Total: _____</string>
+    <string name="timerStartValue">10:00</string>
+    <string name="buttonStart">Start</string>
+    <string name="restartButton">Restart</string>
+    <string name="highScore">HIGH SCORE : 0</string>
+    <string name="pauseButton">Pause</string>
+</resources>
